@@ -1,0 +1,24 @@
+PODS:
+  - OktaAuthSdk (2.0.0)
+  - OktaOidc (3.5.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - OktaAuthSdk (= 2.0.0)
+  - OktaOidc
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OktaAuthSdk
+    - OktaOidc
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  OktaAuthSdk: 0559a6da87595fca4468237fa9645c6741a4557a
+  OktaOidc: 9e04c806a9608ada90909443e7763b54bf059f24
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 82a9ad3037684dfa6496cc8c2b576b3566e368b5
+
+COCOAPODS: 1.5.3
